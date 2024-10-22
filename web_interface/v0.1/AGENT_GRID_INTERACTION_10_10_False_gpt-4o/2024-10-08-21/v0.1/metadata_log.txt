@@ -1,0 +1,1 @@
+{'simulation_type': ['AGENT_GRID_INTERACTION'], 'n_agents': [10], 'n_rounds': [10], 'precise_update': [False], 'llm': ['gpt-4o', 'llama3-8b-it'], 'time': 409.05694222450256}
